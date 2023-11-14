@@ -1,4 +1,6 @@
 - Masak hari pertama nasi kuning
+  ^ nasi biasa
+  ^ lauk ayam masak merah
 - Masak hari kedua nasi bakar
 - Masak hari ke tiga iga bakar
 - Masak hari ke empat nasi goreng
